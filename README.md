@@ -1,6 +1,5 @@
 ### Olá!👋 
 
-- 🌱 Estudando python
 - 📫 Entre em contato no email: bielgeronimo10@gmail.com
 
 <div align="center">
